@@ -71,12 +71,9 @@ while True:
 
 
 ## CLIENT OUTPUT :
-![EX-10 CLIENT](https://github.com/Kalpanareshma/EX-10/assets/122040453/16e9ec8d-e840-41d3-b359-21df4a48a499)
+![ex10 client output](https://github.com/Kalpanareshma/EX-10/assets/122040453/814a8f71-de2a-40b1-a000-043d67d9bbef)
 ## SERVER OUTPUT :
-![EX-10](https://github.com/Kalpanareshma/EX-10/assets/122040453/2d2bd7d2-8aae-47ba-8e4b-3e2f1dce0a00)
-
-
-
+![ex10 server output](https://github.com/Kalpanareshma/EX-10/assets/122040453/ce0457f4-4bc1-4cd4-9ffe-17e898113bcc)
 
 ## RESULT :
 Thus, the python program for creating File Transfer using TCP Sockets Links was successfully created and executed.
